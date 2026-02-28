@@ -1,4 +1,4 @@
-> **A comprehensive data-driven analysis system for tourism accommodations across European cities**
+> **A comprehensive data-driven analysis for tourism accommodations. Sentiment analysis dashboard analyzing 6,947+ Google Maps reviews from 4,342 accommodations across 5 European cities **
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
