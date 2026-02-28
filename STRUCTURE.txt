@@ -1,0 +1,13 @@
+
+📦 Fresh Repository Structure:
+
+./LICENSE
+./README.md
+./STRUCTURE.txt
+./dashboard/index.html
+./docs/API_SETUP.md
+./docs/DATA_COLLECTION.md
+./docs/GITHUB_SETUP.md
+./requirements.txt
+./scripts/google_places_scraper.py
+./scripts/sentiment_analysis.py
